@@ -1,8 +1,0 @@
-C:\workspace\Fizz\Fizz\bin\Debug\Fizz.exe.config
-C:\workspace\Fizz\Fizz\bin\Debug\Fizz.exe
-C:\workspace\Fizz\Fizz\bin\Debug\Fizz.pdb
-C:\workspace\Fizz\Fizz\obj\Debug\Fizz.csprojResolveAssemblyReference.cache
-C:\workspace\Fizz\Fizz\obj\Debug\Fizz.exe
-C:\workspace\Fizz\Fizz\obj\Debug\Fizz.pdb
-C:\workspace\Fizz\Fizz\bin\Debug\Fizz.Business.dll
-C:\workspace\Fizz\Fizz\bin\Debug\Fizz.Business.pdb
