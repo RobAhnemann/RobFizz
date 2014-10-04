@@ -1,0 +1,11 @@
+C:\workspace\Fizz\Fizz.Tests\bin\Debug\Fizz.Tests.dll
+C:\workspace\Fizz\Fizz.Tests\bin\Debug\Fizz.Tests.pdb
+C:\workspace\Fizz\Fizz.Tests\bin\Debug\nunit.framework.dll
+C:\workspace\Fizz\Fizz.Tests\bin\Debug\nunit.framework.xml
+C:\workspace\Fizz\Fizz.Tests\obj\Debug\Fizz.Tests.csprojResolveAssemblyReference.cache
+C:\workspace\Fizz\Fizz.Tests\obj\Debug\Fizz.Tests.dll
+C:\workspace\Fizz\Fizz.Tests\obj\Debug\Fizz.Tests.pdb
+C:\workspace\Fizz\Fizz.Tests\bin\Debug\Fizz.Business.dll
+C:\workspace\Fizz\Fizz.Tests\bin\Debug\Fizz.Business.pdb
+C:\workspace\Fizz\Fizz.Tests\bin\Debug\Moq.dll
+C:\workspace\Fizz\Fizz.Tests\bin\Debug\Moq.xml

@@ -1,0 +1,5 @@
+C:\workspace\Fizz\Fizz.Business\bin\Debug\Fizz.Business.dll
+C:\workspace\Fizz\Fizz.Business\bin\Debug\Fizz.Business.pdb
+C:\workspace\Fizz\Fizz.Business\obj\Debug\Fizz.Business.dll
+C:\workspace\Fizz\Fizz.Business\obj\Debug\Fizz.Business.pdb
+C:\workspace\Fizz\Fizz.Business\obj\Debug\Fizz.Business.csprojResolveAssemblyReference.cache
